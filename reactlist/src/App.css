@@ -20,7 +20,7 @@
 
 .body-section {
   width: 100%;
-  height: calc(100vh - 110px);
+  /* height: calc(100vh - 110px); */
 }
 
 .cad-task {
